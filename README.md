@@ -12,3 +12,10 @@ Supplementary git repository for project reproduce.
 1. Please clone this repository.
 2. Then please run data_preparation.py file using python3 "script/data_preparation.py" command on your terminal that located in cloned repository. This will download and check the Wine quality dataset at the data folder under this repository.
 3. Now you can check the overall codes at is507_project.ipynb file. The ipynb file located under script folder.
+
+## etc.
+- I credit the knowledge about reproducibility of work on git to IS477 Data Management course.
+- data_preparation.py codes are from my previous work in IS477
+
+## References
+- IS 477. (2023). data_preparation.py. GitHub. program documentation. Retrieved December 12, 2024, from https://github.com/ChanghoJ/is477-fall2023-final-project/blob/main/scripts/prepare_data.py.
